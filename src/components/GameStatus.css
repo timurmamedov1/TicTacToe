@@ -1,0 +1,28 @@
+.game-status {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.status-text {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #e5e5e5;
+  margin: 0 0 0.75rem;
+}
+
+/* styled as a plain text link, not a button. underline only on hover */
+.restart-btn {
+  background: none;
+  border: none;
+  color: #e5e5e5;
+  font-size: 0.875rem;
+  font-weight: 400;
+  font-family: inherit;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: none;
+}
+
+.restart-btn:hover {
+  text-decoration: underline;
+}

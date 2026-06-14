@@ -1,0 +1,8 @@
+/* gap trick: board bg bleeds thru the 1px gap as "borders".
+   cells have their own bg so theres no outer border on the grid. */
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 110px);
+  gap: 1px;
+  background: rgba(255, 255, 255, 0.1);
+}
