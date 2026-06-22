@@ -2,7 +2,7 @@
 
 A tictactoe game where you play against an unbeatable AI. Built as part of a submission for a co-op application.
 
-[LIVE_URL]
+[Play here](https://tictactoe-xi-ten.vercel.app)
 
 ## Stack
 
